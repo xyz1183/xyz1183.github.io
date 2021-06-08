@@ -23,6 +23,6 @@ public interface AutoCloseable {
     void close() throws Exception;
 }
 ```
-참고
+- - - 
 * BufferedReader의 close()는 InputStreamReader의 close()를, InputStreamReader의 close()는 InputStream의 close()를 호출한다. PrintStream의 close()도 마찬가지이다. 
 * java.io.Closeable 인터페이스는 java.lang.AutoCloseable을 상속받는다.  
