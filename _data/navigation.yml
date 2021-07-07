@@ -2,6 +2,8 @@
 main:
   - title: "Java"
     url: /categories/java/
+  - title: "Spring"
+    url: /categories/spring/
   - title: "Categories"
     url: /categories/
   # - title: "About"
